@@ -3,4 +3,5 @@ langchain>=0.1.0
 langchain-community
 langchain-groq
 nest_asyncio
-wolframalpha  # Optional (only if you're using WolframAlpha tool)
+wolframalpha
+wikipedia
